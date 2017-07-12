@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Polly": "5.0.6"
+      }
+    }
+   }
+}
